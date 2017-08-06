@@ -1,0 +1,3 @@
+info="<div class=&#34;separator&#34; style=&#34;clear: both; text-align: center;&#34;><a href=&#34;https://1.bp.blogspot.com/-_DRK-YvoIA4/WYbUcqs5eLI/AAAAAAAAAk4/3-AdeTHKpZISJ_Twa-ELDgLrPPxXcU82gCLcBGAs/s1600/foda-gostosa-com-o-pai-do-meu-namorado-02.jpg&#34; imageanchor=&#34;1&#34; style=&#34;margin-left: 1em; margin-right: 1em;&#34;><img border=&#34;0&#34; src=&#34;https://1.bp.blogspot.com/-_DRK-YvoIA4/WYbUcqs5eLI/AAAAAAAAAk4/3-AdeTHKpZISJ_Twa-ELDgLrPPxXcU82gCLcBGAs/s1600/foda-gostosa-com-o-pai-do-meu-namorado-02.jpg&#34; data-original-width=&#34;700&#34; data-original-height=&#34;393&#34; /></a></div>"
+
+document.write(info)
